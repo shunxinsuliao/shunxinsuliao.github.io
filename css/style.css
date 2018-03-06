@@ -1,0 +1,12 @@
+.footer-bottom li{
+    margin-left: 10px;
+    position: relative;
+	height: 45px;
+    line-height: 45px;
+    float: left;
+    font-size: 12px
+}
+
+.footer-bottom .li00 {
+    margin: 0 2.5%;
+}
